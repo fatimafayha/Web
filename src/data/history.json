@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Application Developer Intern",
+    "organisation": "ADP",
+    "startDate": "May, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Designed and successfully integrated a cache-clearing functionality on the WFN homepage, accessible solely to ADP users."
+    , "Tailored this feature to allow ADP users to effortlessly clear their homepage cache, ensuring real-time data accuracy and eliminating the need for the standard 24-hour cache refresh cycle",
+    "Implemented security measures to restrict access to this feature exclusively to the ADP user security profile, safeguarding system integrity and user privacy.",
+    "Authored detailed confluence pages on the setup of both projects, providing clear instructions and best practices to ensure smooth implementation and maintenance for future interns.",
+    "Participated in Agile methodologies, utilizing Jira for task management; contributed to daily stand-ups and biweekly sprint planning, enhancing team collaboration and project delivery quality."
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Graduate Teaching Assistant",
+    "organisation": "University of Central Florida",
+    "startDate": "Aug, 2022",
+    "endDate": "Current",
+    "experiences": ["Coordinated and managed academic support for over 500 undergraduate students enrolled in Object-Oriented Programming with Java, ensuring a structured and efficient learning environment.",
+    "Graded student assignments with exceptional attention to detail, ensuring thorough evaluation and adherence to high academic standards.",
+    "Hosted regular office hours, providing personalized doubt-clearance sessions that enhanced students’ understanding of complex Java concepts and programming challenges."
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Global Women Mentorship Program",
+    "organisation": "Micron",
+    "startDate": "March, 2023",
+    "endDate": "April, 2023",
+    "experiences": ["Distinguished as one of the top 250 candidates globally for a competitive 6-week mentorship at Micron, focusing on interview prep and professional skill enhancement under the guidance of a seasoned engineer.",
+    "Attended weekly Fireside chats with Micron’s female executives, acquiring valuable insights into leadership and diversity practices in the tech industry."
+    ],
+    "imageSrc": "history/micron.png"
+  }
+
+]
