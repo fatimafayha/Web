@@ -1,26 +1,20 @@
 [
   {
-    "title": "Project A",
+    "title": "Signature Detection",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a signature forgery detection model which identifies whether a signature is genuine or forge. Leveraged signature verification dataset from kaggle consisting of 2300 training samples and 5000 test samples.",
+    "source": "https://github.com/fatimafayha/signatureDetection"
   },
   {
-    "title": "Project B",
+    "title": "Marked",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a Chrome browser extension using Javascript with timestamp bookmarking functionality for YouTube videos with API integration, allowing users to conveniently save and return to specific points in videos for an improved viewing experience.",
+    "source": "https://github.com/fatimafayha/Marked"
   },
   {
-    "title": "Project C",
+    "title": "Cache Simulator",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a cache simulator with LRU, FIFO, and optimal replacement policies, plus sequential and stride prefetching techniques, achieving a 0.1 reduction in miss rates for L1 and L2 caches.",
+    "source": "https://github.com/fatimafayha/Simulator"
   }
 ]
