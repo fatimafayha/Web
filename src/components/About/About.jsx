@@ -39,8 +39,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Machine Learning</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have developed various machine learning models.
               </p>
             </div>
           </li>
